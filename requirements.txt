@@ -1,0 +1,5 @@
+requests
+Pillow
+beautifulsoup4
+transformers
+gradio
